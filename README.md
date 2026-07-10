@@ -1,6 +1,6 @@
 cat > /tmp/github_profile_readme.md << 'EOF'
 # Meghashyam Komari - Data Engineering Portfolio
-Hi! I'm a Data Engineer with 4+ years of experience building enterprise-scale ETL/ELT pipelines, 
+Hi! I'm a Data Engineer with 5 years of experience building enterprise-scale ETL/ELT pipelines, 
 big data platforms, and AI-powered analytics infrastructure. Currently at **PNC Financial Services** processing 
 18M+ financial records daily with 99.9% SLA compliance.
 
